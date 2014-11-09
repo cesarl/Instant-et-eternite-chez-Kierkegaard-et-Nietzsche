@@ -4,15 +4,14 @@
 
 Nietzsche, _Le crépuscule des Idoles P-135_
 
->C’est ainsi que bruit ou bouillonne la vie de la génération ; bien que tout ne
-soit qu’un tourbillon, l’on entend sans cesse coup de semonce et tocsin exhortant l’individu à se dépêcher ; vite, à la seconde même, à tout jeter pardessus bord : méditation, silencieuse réflexion, pensée apaisante de l’éternité, sinon il sera trop tard pour faire partie de l’expédition de la génération qui se met à l’instant en route.
+
+>C’est ainsi que bruit ou bouillonne la vie de la génération ; bien que tout ne soit qu’un tourbillon, l’on entend sans cesse coup de semonce et tocsin exhortant l’individu à se dépêcher ; vite, à la seconde même, à tout jeter par-dessus bord : méditation, silencieuse réflexion, pensée apaisante de l’éternité, sinon il sera trop tard pour faire partie de l’expédition de la génération qui se met à l’instant en route.
 
 Kierkegaard, _La Dialectique de la communication_
 
 ------------
 
-De la lecture de ces deux passages ressort une problématique commune aux deux
-auteurs. En effet, Kierkegaard, comme Nietzsche dénoncent ici une temporalité caractéristique de leur époque.
+De la lecture de ces deux passages ressort une problématique commune aux deux auteurs. En effet, Kierkegaard, comme Nietzsche dénoncent ici une temporalité caractéristique de leur époque.
 
 Les deux mettent en avant le caractère instantané de l’existence, son immédiateté et révèlent l’oubli qui en découle. En effet, qu’entend-on par _vivre de manière irresponsable_ ? Au-delà de toutes considérations morales, ne pouvons-nous pas comprendre la responsabilité comme mémoire active, volontaire, inscrivant l’individu dans le temps ? En effet, être responsable, c’est aussi porter le poids de son passé dans le présent ; en d’autres termes, être responsable, c’est garder une certaine constance dans le temps et ne pas, à chaque instant, rompre avec les instants passés. Cette idée de la responsabilité est aussi perceptible dans le passage de _La Dialectique de la communication_ cité ci-dessus ; en effet, la méditation, la réflexion, ne sont rien d’autre qu’une inscription de la vie dans le temps allant à l’encontre de la temporalité que Kierkegaard dénonce, propre à son époque, et qui, renonce à la “pensée de l’éternité” pour vivre “à la seconde même”.
 
@@ -20,6 +19,7 @@ Nous remarquons donc, à la lumière de cette lecture, que Kierkegaard, comme
 Nietzsche, s’oppose à une certaine conception du temps ; conception que l’on pourrait résumer provisoirement sous les termes d’instantanéité et d’anti-éternité. De plus, ces deux extraits nous révèlent le rapport indissociable entre la temporalité et l’existence ; vivre, ne sera donc envisageable, chez ces deux auteurs, qu’au sein d’une temporalité déterminée.
 
 Cela nous invite donc à nous interroger sur les différentes temporalités présentent dans leurs oeuvres. En effet, sous quel angle temporel, ces deux penseurs de l’existence vont-ils envisager la vie ? Dans quel instant, dans quelle durée, dans quelle éternité s’inscrira l’individu ?
+
 
 Nous nous attacherons donc ici à l’étude des différents types de temporalité présentent dans la pensée de ces deux philosophes ; et cela à la lumière des concepts d’instant et d’éternité. En d’autres termes, nous chercherons à penser la temporalité nietzschéenne et kierkegaardienne dans sa relation à l’existence. Pour cela, nous parcourrons d’abord les différents types de temporalité qu’ils récusent, et les conséquences existentielles qui selon eux
 en découlent. Puis, dans un second temps, nous tenterons de saisir, à travers leurs conceptions de l’instant et de l’éternité, la temporalité, ou “être dans le temps” que chacun des deux revendiquent. Nous déboucherons alors sur deux ontologies, cherchant, toutes deux à réunir l’instant et l’éternité en d’autres termes à rendre l’instant éternel.
@@ -32,237 +32,92 @@ Nietzsche, _Le Gai Savoir_, §125
 
 En partant de l’affirmation selon laquelle “Dieu est mort” nous cernerons la critique que Nietzsche fait du nihilisme, et du rapport que cet état d’esprit entretien avec une certaine forme de temporalité.
 
-Qu’est-ce donc que Nietzsche entend par la mort de Dieu ? En quoi cela est-il révélateur,
-à ses yeux, de la crise nihiliste qui fait rage en occident ? C’est tout d’abord un constat
-qu’il dresse ; il remarque une disparition de la foi. Ainsi, avec Dieu, meurent les valeurs éternelles,
-les sens, les buts. Toutes les valeurs se retrouvent alors nulles, le sens des choses se
-dérobe, ce qui provoque en l’homme ce que Nietzsche qualifie de “grand dégoût”. C’est
-l’égalisation de toutes les valeurs, de toutes les croyances, qui pousse l’homme au désir de
+Qu’est-ce donc que Nietzsche entend par la mort de Dieu ? En quoi cela est-il révélateur, à ses yeux, de la crise nihiliste qui fait rage en occident ? C’est tout d’abord un constat
+qu’il dresse ; il remarque une disparition de la foi. Ainsi, avec Dieu, meurent les valeurs éternelles, les sens, les buts. Toutes les valeurs se retrouvent alors nulles, le sens des choses se dérobe, ce qui provoque en l’homme ce que Nietzsche qualifie de “grand dégoût”. C’est l’égalisation de toutes les valeurs, de toutes les croyances, qui pousse l’homme au désir de
 néant.
-En effet, l’homme nihiliste ne pourra plus agir en fonction de valeurs dont les fondements
-revêtiraient à ses yeux des allures d’éternité et d’universalité. L’effritement du sens entraîne
-l’individu dans sa chute qui éprouve alors un désir de néant.
-Rappelons nous que pour Nietzsche, l’homme est caractérisé par sa volonté, volonté
-de puissance, qui doit être comprise, non pas comme un désir de domination sur les autres,
-mais comme une volonté d’affirmation, de revendication. Celle-ci cherchera à affirmer la vie,
-la force. (“Où j’ai trouvé du vivant, j’ai trouvé de la volonté de puissance” Zarathoustra). Il
-existera alors pour Nietzsche, deux types de volonté de puissance ; la négative, qui refuse les
-forces en se protégeant derrière quelques idéaux, et la positive, qui les accepte, revendique
-la vie et en déploie les forces. La volonté de puissance, selon qu’elle soit négative ou positive
-acceptera ou refusera les valeurs en fonction de ses intérêts. Mais avec la crise nihiliste, avec
-TP - Instant et éternité chez Kierkegaard et Nietzsche
-2
-la chute du sens et des valeurs, l’homme ne peut plus vouloir ou ne pas vouloir certaines valeurs.
-Il ne lui reste alors plus que la possibilité de vouloir le néant.
-Nous comprenons alors que tout devient non-sens ; en effet, les valeurs actuelles ne
-sont que, comme l’histoire le montre, destinées à mourir elles-aussi. Le passé n’est plus
-qu’une époque révolue, entraînant dans sa disparition son bagage de valeurs. Pourquoi donc
-se jeter dans une croyance quelconque, puisque celle-ci finira, dans les registres de l’histoire
-aux côtés de toutes les valeurs pareillement égalisées, que le temps a flétri leur ôtant alors
-toute dimension de vérité et d’ éternité. Vers où l’homme pourrait-il alors tourner sa volonté ?
-Le passé est révolu et tout ce qu’il revendiquait est aujourd’hui frappé par le sceau du dépassé
-; que construire dans le présent, si c’est pour que tout s’écroule à l’instant suivant ; et
-enfin qu’attendre de l’avenir ? Dieu est mort, et avec lui toutes les promesses d’un autre
-monde auquel nous aurions accès, après avoir traversé l’épreuve de la vie terrestre.
-Le nihilisme, nous le voyons bien enferme l’individu dans une temporalité linéaire, au
-sein de laquelle tout ce qui naît aujourd’hui est destiné à périr le lendemain. Eternel écoulement,
-où rien ne reste, où tout vieillit et finit par s'équivaloir, la temporalité nihiliste ne laisse à
-l’homme rien d’autre que sa lassitude, n’ayant plus rien à attendre, sans but et sans valeur.
-Mais ne nous attardons pas de trop sur le temps du nihilisme, car nous aurons l’occasion
-d’y revenir plus tard. Nous sommes donc partis de l’idée de “mort de Dieu” pour introduire
-l’époque nihiliste dont Nietzsche est le contemporain et l’observateur. Mais il nous faut
-maintenant remonter plus en amont dans l’étude généalogique nietzschéenne et étudier les
-différentes temporalités qui ont précédées l’ère nihiliste. En effet, nous sommes partis d’une
-conception linéaire et atomiste du temps et nous avons entrevu la position dans laquelle se
-trouvait l’individu. Intéressons nous maintenant aux conceptions plus anciennes du monde et
-du temps, analysées par Nietzsche.
-“ “C’est passé, c’est un fait” — parole qui remplit de contrition et de douleur le
-vouloir et sa solitude. Impuissant contre tout ce qui est révolu, il regarde avec
-hostilité tout le passé.”
-Nietzsche, Ainsi parlait Zarathoustra, “de la rédemption”
-Nietzsche, penseur du “Retour Eternel” va critiquer la conception cyclique que les
-civilisations archaïques se faisaient du temps. En effet, il y voyait une nostalgie, invitant alors à
-répudier le temps présent, mauvais par définition, car n’étant pas celui de l’origine mythique.
-Cette position est illustrée dans le Zarathoustra, par la figure du nain. En effet, dans “de la
-vision et de l’énigme”, texte sur lequel nous reviendrons plus tard, Nietzsche fait dire au nain
-à propos du temps : “Toujours menteuse est ligne droite”, “courbe est toute vérité, le temps
-même est un cercle”. Nietzsche dénonce ici, le ressentiment auquel conduit une telle
-temporalité archaïque. Il n’y a plus rien à espérer du présent, si ce n’est quelques
-TP - Instant et éternité chez Kierkegaard et Nietzsche
-3
-manifestations reflétant les événements primordiaux. L’individu archaïque se trouve donc
-enfermé dans une temporalité cyclique dénuée de toute éternité possible. Il ne reste alors
-qu’à attendre nostalgiquement le retour du temps mythique ; empreint de nostalgie donc, par
-rapport au temps passé, mais aussi de ressentiment vis-à-vis de l’instant présent et du
-monde empirique. Nous voyons donc ici naître une des idées majeures nietzschéennes qui
-sera présente dans toute sa généalogie : le ressentiment. Qu’entend-on par là ? C’est ce que
-nous appelions plus haut, la volonté de puissance négative, négatrice, niant les forces de la
-vie, niant le corps, dans sa tentative d’affirmation de lui-même. La mauvaise volonté
-connaîtra donc un certain ressentiment vis-à-vis monde dans lequel elle évolue, elle
-cherchera alors à le dévaluer, à empêcher la volonté de s’y exprimer.
+
+En effet, l’homme nihiliste ne pourra plus agir en fonction de valeurs dont les fondements revêtiraient à ses yeux des allures d’éternité et d’universalité. L’effritement du sens entraîne l’individu dans sa chute qui éprouve alors un désir de néant.
+
+Rappelons nous que pour Nietzsche, l’homme est caractérisé par sa volonté, volonté de puissance, qui doit être comprise, non pas comme un désir de domination sur les autres, mais comme une volonté d’affirmation, de revendication. Celle-ci cherchera à affirmer la vie, la force. (Où j’ai trouvé du vivant, j’ai trouvé de la volonté de puissance” _Zarathoustra_). Il
+existera alors pour Nietzsche, deux types de volonté de puissance ; la négative, qui refuse les forces en se protégeant derrière quelques idéaux, et la positive, qui les accepte, revendique la vie et en déploie les forces. La volonté de puissance, selon qu’elle soit négative ou positive acceptera ou refusera les valeurs en fonction de ses intérêts. Mais avec la crise nihiliste, avec la chute du sens et des valeurs, l’homme ne peut plus vouloir ou ne pas vouloir certaines valeurs. Il ne lui reste alors plus que la possibilité de vouloir le néant.
+
+Nous comprenons alors que tout devient non-sens ; en effet, les valeurs actuelles ne sont que, comme l’histoire le montre, destinées à mourir elles-aussi. Le passé n’est plus
+qu’une époque révolue, entraînant dans sa disparition son bagage de valeurs. Pourquoi donc se jeter dans une croyance quelconque, puisque celle-ci finira, dans les registres de l’histoire aux côtés de toutes les valeurs pareillement égalisées, que le temps a flétri leur ôtant alors toute dimension de vérité et d’ éternité. Vers où l’homme pourrait-il alors tourner sa volonté ? Le passé est révolu et tout ce qu’il revendiquait est aujourd’hui frappé par le sceau du dépassé ; que construire dans le présent, si c’est pour que tout s’écroule à l’instant suivant ; et enfin qu’attendre de l’avenir ? Dieu est mort, et avec lui toutes les promesses d’un autre monde auquel nous aurions accès, après avoir traversé l’épreuve de la vie terrestre.
+
+
+Le nihilisme, nous le voyons bien enferme l’individu dans une temporalité linéaire, au sein de laquelle tout ce qui naît aujourd’hui est destiné à périr le lendemain. Eternel écoulement, où rien ne reste, où tout vieillit et finit par s'équivaloir, la temporalité nihiliste ne laisse à l’homme rien d’autre que sa lassitude, n’ayant plus rien à attendre, sans but et sans valeur.
+
+Mais ne nous attardons pas de trop sur le temps du nihilisme, car nous aurons l’occasion d’y revenir plus tard. Nous sommes donc partis de l’idée de “mort de Dieu” pour introduire l’époque nihiliste dont Nietzsche est le contemporain et l’observateur. Mais il nous faut maintenant remonter plus en amont dans l’étude généalogique nietzschéenne et étudier les différentes temporalités qui ont précédées l’ère nihiliste. En effet, nous sommes partis d’une
+conception linéaire et atomiste du temps et nous avons entrevu la position dans laquelle se trouvait l’individu. Intéressons nous maintenant aux conceptions plus anciennes du monde et du temps, analysées par Nietzsche.
+
+>"C’est passé, c’est un fait" — parole qui remplit de contrition et de douleur le vouloir et sa solitude. Impuissant contre tout ce qui est révolu, il regarde avec hostilité tout le passé.”
+
+Nietzsche, _Ainsi parlait Zarathoustra_, “de la rédemption”
+
+
+Nietzsche, penseur du “Retour Eternel” va critiquer la conception cyclique que les civilisations archaïques se faisaient du temps. En effet, il y voyait une nostalgie, invitant alors à répudier le temps présent, mauvais par définition, car n’étant pas celui de l’origine mythique. Cette position est illustrée dans le _Zarathoustra_, par la figure du nain. En effet, dans “de la
+vision et de l’énigme”, texte sur lequel nous reviendrons plus tard, Nietzsche fait dire au nain à propos du temps : “Toujours menteuse est ligne droite”, “courbe est toute vérité, le temps même est un cercle”. Nietzsche dénonce ici, le ressentiment auquel conduit une telle temporalité archaïque. Il n’y a plus rien à espérer du présent, si ce n’est quelques
+manifestations reflétant les événements primordiaux. L’individu archaïque se trouve donc enfermé dans une temporalité cyclique dénuée de toute éternité possible. Il ne reste alors qu’à attendre nostalgiquement le retour du temps mythique ; empreint de nostalgie donc, par rapport au temps passé, mais aussi de ressentiment vis-à-vis de l’instant présent et du monde empirique. Nous voyons donc ici naître une des idées majeures nietzschéennes qui sera présente dans toute sa généalogie : le ressentiment. Qu’entend-on par là ? C’est ce que
+nous appelions plus haut, la volonté de puissance négative, négatrice, niant les forces de la vie, niant le corps, dans sa tentative d’affirmation de lui-même. La mauvaise volonté connaîtra donc un certain ressentiment vis-à-vis monde dans lequel elle évolue, elle cherchera alors à le dévaluer, à empêcher la volonté de s’y exprimer.
+
 C’est ce concept de ressentiment qui va nous permettre d’ouvrir une nouvelle
-dimension de la temporalité, dénoncée par Nietzsche, temporalité qui va se révéler
-étroitement liée à la vitalité, à l’être dans le temps. Ainsi, le temps cyclique archaïque
-conduira à un refus du lieu où nous sommes, à l’instant où nous sommes ; à un refus du
-monde tel qu’il est et donc, à une fuite vers un autre monde.
+dimension de la temporalité, dénoncée par Nietzsche, temporalité qui va se révéler étroitement liée à la vitalité, à l’être dans le temps. Ainsi, le temps cyclique archaïque conduira à un refus du lieu où nous sommes, à l’instant où nous sommes ; à un refus du monde tel qu’il est et donc, à une fuite vers un autre monde.
+
 Et c’est à travers cette grille interprétative du temps, reposant sur l’idée de
-ressentiment, que Nietzsche va analyser différentes pensées et conceptions dans La
-Généalogie de la morale.
-Aussi, Nietzsche s'intéressera-t-il à la vision platonicienne du monde. Socrate, puis
-Platon, dans le prolongement d’Héraclite, considéraient le monde sensible comme celui du
-mouvement éternel, de la corruption de la matière ; tout y change, rien est, au sens ou
-aucune essence n’y est présente. En effet, nous nous souviendrons de la célèbre phrase
-attribuée à Héraclite, “on ne se baigne jamais deux fois dans le même fleuve”, illustrant
-parfaitement cette conception du monde physique. Nietzsche reprochera justement à Platon
-et à Socrate, d’avoir, sur la base d’un tel constat, cherché à établir un “arrière monde”, un
-monde purement intellectuel, dans lequel résideraient les idées, immuables et incorruptibles.
-Ainsi, aux yeux de Nietzsche, c’est encore une fois une tentative de substitution du monde
-réel, dans sa temporalité et son immédiateté à laquelle se livrent Platon et Socrate. L’éternité
-n’est plus de ce monde, et notre regard doit s’en détourner. C’est un refus de l’instantanéité
-qui caractérise l’ici-bas ; une fuite vers un meilleur monde, un ailleurs, et par conséquent, une
-dépréciation de la vie, de l’être au monde, et dans le temps. C’est donc une éternité extramondaine
-qui va être proposée à l’individu, considérant le sensible comme mauvais
-(rappelons nous l’image du bourbier dans le Phédon) ; ressentiment donc, encore une fois,
-envers ce qui pour Nietzsche est premier en l’homme, son corps, considéré par les antiques
-comme le geôlier de l’âme. Les passions, dans une telle représentation du monde, vont donc
-être chassées, perçues comme mauvaise influence de la matière sur l’âme. Nietzsche verra
-dans une telle philosophie une volonté négative, pleine de ressentiment vis-à-vis du monde
-empirique.
-La conception platonicienne aura donc pour caractéristique de refuser l’écoulement du
-temps et sa mobilité, et de chercher, ailleurs qu’ici-bas une éternité possible, dans un monde
-intelligible, où le corps n’a pas sa place. Socrate ne veut pas vivre, au contraire, sa
-TP - Instant et éternité chez Kierkegaard et Nietzsche
-4
-condamnation sera pour lui, d’après Nietzsche, la délivrance qu’il attendait ; le père de la
-philosophie est alors accusé d’être refus de la vie et désir de mort.
+ressentiment, que Nietzsche va analyser différentes pensées et conceptions dans _La Généalogie de la morale_.
+
+Aussi, Nietzsche s'intéressera-t-il à la vision platonicienne du monde. Socrate, puis Platon, dans le prolongement d’Héraclite, considéraient le monde sensible comme celui du mouvement éternel, de la corruption de la matière ; tout y change, rien est, au sens ou aucune essence n’y est présente. En effet, nous nous souviendrons de la célèbre phrase attribuée à Héraclite, “on ne se baigne jamais deux fois dans le même fleuve”, illustrant parfaitement cette conception du monde physique. Nietzsche reprochera justement à Platon
+et à Socrate, d’avoir, sur la base d’un tel constat, cherché à établir un “arrière monde”, un monde purement intellectuel, dans lequel résideraient les idées, immuables et incorruptibles. Ainsi, aux yeux de Nietzsche, c’est encore une fois une tentative de substitution du monde réel, dans sa temporalité et son immédiateté à laquelle se livrent Platon et Socrate. L’éternité
+n’est plus de ce monde, et notre regard doit s’en détourner. C’est un refus de l’instantanéité qui caractérise l’ici-bas ; une fuite vers un meilleur monde, un ailleurs, et par conséquent, une dépréciation de la vie, de l’être au monde, et dans le temps. C’est donc une éternité extramondaine qui va être proposée à l’individu, considérant le sensible comme mauvais (rappelons nous l’image du bourbier dans le _Phédon_) ; ressentiment donc, encore une fois,
+envers ce qui pour Nietzsche est premier en l’homme, son corps, considéré par les antiques comme le geôlier de l’âme. Les passions, dans une telle représentation du monde, vont donc être chassées, perçues comme mauvaise influence de la matière sur l’âme. Nietzsche verra dans une telle philosophie une volonté négative, pleine de ressentiment vis-à-vis du monde empirique.
+
+La conception platonicienne aura donc pour caractéristique de refuser l’écoulement du temps et sa mobilité, et de chercher, ailleurs qu’ici-bas une éternité possible, dans un monde intelligible, où le corps n’a pas sa place. Socrate ne veut pas vivre, au contraire, sa condamnation sera pour lui, d’après Nietzsche, la délivrance qu’il attendait ; le père de la philosophie est alors accusé d’être refus de la vie et désir de mort.
+
 Nous finirons cette étude de la généalogie nietzschéenne en évoquant le temps
-chrétien, avant de revenir au nihilisme dont le penseur bâlien est le contemporains. Ainsi, que
-fait le christianisme ? En quoi consiste son progrès par rapport à la temporalité archaïque ?
-Ce sera le passage d’une conception cyclique, comme nous l’avons observé plus haut, à
-une conception linéaire du temps. En effet, la religion chrétienne, en rompant la boucle
-archaïque et en encadrant l’histoire d’un début et d’une fin, permet à cette dernière de naître.
-Cependant l’éternité n’est toujours pas de ce monde, et elle reste confinée dans un au-delà.
-Ainsi, la promesse d’éternité se réalisera après la mort, une fois que l’âme, séparée du corps
-matériel, quittera le monde terrestre pour rejoindre celui de l’éternel. La vie sur terre sera
-donc, d’après Nietzsche présentée aux chrétiens comme une punition et une mise à
-l’épreuve ; en effet, sa condition sera le fruit du péché originel, qu’il devra porter tout au long
-de son existence, dont il devra témoigner la responsabilité. C’est donc une dépréciation du
-monde que Nietzsche dénonce, ce qu’il exprime clairement d’ailleurs au paragraphe 130 du
-Gai Savoir en ces mots “La résolution chrétienne de considérer le monde comme laid et
-mauvais a rendu le monde laid et mauvais”. C’est ce qui a donné naissance aux plus grandes
-morales remarque Nietzsche, ainsi qu’aux modes de vie ascétiques, ne cherchant rien
-d’autre qu’à briser la volonté de puissance.
-Ainsi, le christianisme est une pensée du ressentiment elle aussi ; elle permet, certes, un
-déploiement du temps, une durée, une temporalité, mais refuse toujours de faire rentrer
-l’éternité dans le monde, et le présente comme un passage, une épreuve, au sein duquel
-l’individu doit déployer toute sa volonté en cherchant à le quitter. Le présent est donc
-déprécié, n’étant rien d’autre aux yeux de la chrétienté que le résultat d’une faute originelle ;
-quant au futur, c’est au-delà du monde qu’il faut projeter son regard, et non vers le devenir
-terrestre. Attendre une autre forme d’existence, d’être, voilà ce à quoi, selon Nietzsche,
-encourage la christianisme.
-Nous avons vu, dans ses grandes lignes, la lecture que faisait Nietzsche de différentes
-représentations du monde, de la temporalité et de l’être. Tentons donc, maintenant, d’en tirer
-certaines conclusions à propos de la temporalité et de l’ontologie que Nietzsche refuse.
-Ainsi, nous avons pu remarquer une certaine évolution concernant la perception du
-temps à travers l’histoire ; tout d’abord la circularité archaïque qui interdisait toute pensée
-d’éternité et enfermait l’individu dans une attente nostalgique. Ensuite, le platonisme, avec
-lequel est né l’idée d’éternité, d’immuabilité, opposée au caractère éphémère et corruptible
-du monde physique. Une dualité est donc apparue, d’un côté l’éternité, bonne et idéale, de
-l’autre l’instantanéité, mauvaise et invivable. Puis, avec le christianisme fut rendu possible
-l’histoire, c’est-à-dire la durée, avec la présence du péché originel dans le présent ; est donc
-apparue l’idée d’une conservation du passé dans l’instant présent. Cependant, l’éternité
-n’est toujours pas de ce monde et reste réservée à une autre forme de vie.
-Quant à la vie, l’existence, l’être véritable, la généalogie de Nietzsche nous fait observer
-TP - Instant et éternité chez Kierkegaard et Nietzsche
-5
-qu’elle réside toujours dans un autre monde, dans une autre temporalité. Ainsi, au sein d’une
-conception archaïque, l’être ne sera pas dans le présent, mais dans une origine sacrée et
-mythique, dont le retour est attendu. Chez Platon, comme pour les chrétiens, il sera hors du
-monde, dans un ailleurs, meilleur et éternel. Nietzsche va donc s’opposer à une telle
-représentation de l'existence, hors du temps et du monde.
-Regardons maintenant, à la lumière des éclaircissements nietzschéens où ces arrièresmondes
-nous conduisent. Nietzsche y voit un discours de la fatigue, qui ne recherche plus la
-puissance, mais l’absence de volonté. “Souffrance et inaptitude — ce furent elles qui créèrent
-tous ces arrière-mondes et cette courte folie du bonheur que connaît seul celui qui souffre le
-plus. Une fatigue qui d’un bond veut accéder à l’ultime, d’un bond mortel, une pauvre fatigue
-ignorante qui ne veut même plus vouloir : c’est elle qui a créé tous les Dieux et tous les
-arrières mondes.” déclare le Zarathoustra. Cette projection de la vie hors du monde, loin de la
-terre et du présent, loin de la vie véritable est en vérité un désir nihiliste. Nous retrouvons
-donc ici l’idée de nihilisme que nous avions introduite au début de notre étude ; toute volonté
-de puissance négative est nihiliste, car elle est refus de la vie et du monde. Il nous est alors
-possible d’affiner notre compréhension du nihilisme et de la volonté de puissance. Ainsi, la
-volonté de puissance, qu’elle soit négatrice ou positive, est un mouvement visant le
-dépassement d’elle-même ; elle est affirmation de la puissance de la vie. Seulement, à la
-lumière de ce que nous avons dégagé jusqu’ici, sans doute pourrions nous émettre
-l’hypothèse selon laquelle, volonté de puissance négative et positive sont similaires dans leur
-essence, mais différentes en ce qui concerne leur objet. En d’autres termes, la volonté
-négative, cherchera à se dépasser elle-même, à affirmer la puissance de la vie, seulement, ce
-sera une vie extra-mondaine, extra-temporelle. Ainsi, si l’on s’en tient à cette hypothèse, la
-volonté de puissance négative sera ressentiment vis-à-vis de la vrai vie, qui se caractérise par
-sa mondanité et sa temporalité, aux yeux de Nietzsche. Par conséquent, la mauvaise volonté
-de puissance dépréciera la vie, tandis que la bonne, l’affirmera, en cherchant à la surmonter
-dans l’environnement qui est le sien, celle de la temporalité terrestre, celle du présent.
-L’ère nihiliste, caractérisée par la mort de Dieu, se retrouve alors sans arrière monde,
-sans valeurs, sans éternité. La volonté de puissance se retrouve donc dépouillée de toutes
-valeurs sur lesquelles elle pourrait s’appuyer, il ne lui reste donc alors plus qu’à vouloir le
-néant. Ainsi, avec Dieu, décline le “tu dois” (souvenons nous de l'allégorie du dragon et du
-lion dans le Zarathoustra), il reste à l’homme le “je veux” ; mais que vouloir, lorsque l’horizon
-des valeurs, des possibles, des sens s’étend à perte de vue. Dieu est mort, et avec lui toute
-perspective d’éternité ; seul demeure l’éternel cours du temps terrestre, temporalité atomiste
-où les instants se succèdent.
-“ Il nous est donné comme à aucun homme encore de regarder de tous côtés, et nulle
-part on aperçoit de fin. De ce fait nous avons un sentiment d’étendue infinie, - mais aussi de
-vide infini et en ce siècle l’ingéniosité de tous les hommes supérieurs consiste à dépasser ce
-sentiment de désert. A l’opposé de ce sentiment il y a l’ivresse. [...] Ce qui explique son
-ingéniosité pour découvrir des drogues enivrantes. Tous nous connaissons l’ivresse, comme
-musique, comme enthousiasme aveugle s’aveuglant, comme adoration d’hommes singuliers
-ou d'événements ; nous connaissons des ivresses plus modestes, le travail sans relâche, le
-TP - Instant et éternité chez Kierkegaard et Nietzsche
-6
-sacrifice de soi à la science, à un parti politique ou financier ; n’importe quelle ronde pitoyable
-peut déjà enivrer. [...] Comme nous notons et comptabilisons nos petits plaisirs, comme si la
-somme de ces petits plaisirs pouvait faire contrepoids à ce vide, le combler : comme nous
+chrétien, avant de revenir au nihilisme dont le penseur bâlien est le contemporains. Ainsi, que fait le christianisme ? En quoi consiste son progrès par rapport à la temporalité archaïque ? Ce sera le passage d’une conception cyclique, comme nous l’avons observé plus haut, à une conception linéaire du temps. En effet, la religion chrétienne, en rompant la boucle archaïque et en encadrant l’histoire d’un début et d’une fin, permet à cette dernière de naître. Cependant l’éternité n’est toujours pas de ce monde, et elle reste confinée dans un au-delà. Ainsi, la promesse d’éternité se réalisera après la mort, une fois que l’âme, séparée du corps matériel, quittera le monde terrestre pour rejoindre celui de l’éternel. La vie sur terre sera donc, d’après Nietzsche présentée aux chrétiens comme une punition et une mise à l’épreuve ; en effet, sa condition sera le fruit du péché originel, qu’il devra porter tout au long
+de son existence, dont il devra témoigner la responsabilité. C’est donc une dépréciation du monde que Nietzsche dénonce, ce qu’il exprime clairement d’ailleurs au paragraphe 130 du _Gai Savoir_ en ces mots “La résolution chrétienne de considérer le monde comme laid et mauvais a rendu le monde laid et mauvais”. C’est ce qui a donné naissance aux plus grandes morales remarque Nietzsche, ainsi qu’aux modes de vie ascétiques, ne cherchant rien d’autre qu’à briser la volonté de puissance.
+
+Ainsi, le christianisme est une pensée du ressentiment elle aussi ; elle permet, certes, un déploiement du temps, une durée, une temporalité, mais refuse toujours de faire rentrer l’éternité dans le monde, et le présente comme un passage, une épreuve, au sein duquel l’individu doit déployer toute sa volonté en cherchant à le quitter. Le présent est donc déprécié, n’étant rien d’autre aux yeux de la chrétienté que le résultat d’une faute originelle ; quant au futur, c’est au-delà du monde qu’il faut projeter son regard, et non vers le devenir terrestre. Attendre une autre forme d’existence, d’être, voilà ce à quoi, selon Nietzsche, encourage le christianisme.
+
+
+Nous avons vu, dans ses grandes lignes, la lecture que faisait Nietzsche de différentes représentations du monde, de la temporalité et de l’être. Tentons donc, maintenant, d’en tirer certaines conclusions à propos de la temporalité et de l’ontologie que Nietzsche refuse.
+
+Ainsi, nous avons pu remarquer une certaine évolution concernant la perception du temps à travers l’histoire ; tout d’abord la circularité archaïque qui interdisait toute pensée d’éternité et enfermait l’individu dans une attente nostalgique. Ensuite, le platonisme, avec lequel est né l’idée d’éternité, d’immuabilité, opposée au caractère éphémère et corruptible du monde physique. Une dualité est donc apparue, d’un côté l’éternité, bonne et idéale, de
+l’autre l’instantanéité, mauvaise et invivable. Puis, avec le christianisme fut rendu possible l’histoire, c’est-à-dire la durée, avec la présence du péché originel dans le présent ; est donc apparue l’idée d’une conservation du passé dans l’instant présent. Cependant, l’éternité n’est toujours pas de ce monde et reste réservée à une autre forme de vie.
+
+Quant à la vie, l’existence, l’être véritable, la généalogie de Nietzsche nous fait observer qu’elle réside toujours dans un autre monde, dans une autre temporalité. Ainsi, au sein d’une conception archaïque, l’être ne sera pas dans le présent, mais dans une origine sacrée et mythique, dont le retour est attendu. Chez Platon, comme pour les chrétiens, il sera hors du
+monde, dans un ailleurs, meilleur et éternel. Nietzsche va donc s’opposer à une telle représentation de l'existence, hors du temps et du monde.
+
+Regardons maintenant, à la lumière des éclaircissements nietzschéens où ces arrières mondes nous conduisent. Nietzsche y voit un discours de la fatigue, qui ne recherche plus la puissance, mais l’absence de volonté. “Souffrance et inaptitude — ce furent elles qui créèrent tous ces arrière-mondes et cette courte folie du bonheur que connaît seul celui qui souffre le plus. Une fatigue qui d’un bond veut accéder à l’ultime, d’un bond mortel, une pauvre fatigue ignorante qui ne veut même plus vouloir : c’est elle qui a créé tous les Dieux et tous les arrières mondes.” déclare le Zarathoustra. Cette projection de la vie hors du monde, loin de la terre et du présent, loin de la vie véritable est en vérité un désir nihiliste. Nous retrouvons donc ici l’idée de nihilisme que nous avions introduite au début de notre étude ; toute volonté de puissance négative est nihiliste, car elle est refus de la vie et du monde. Il nous est alors possible d’affiner notre compréhension du nihilisme et de la volonté de puissance. Ainsi, la volonté de puissance, qu’elle soit négatrice ou positive, est un mouvement visant le dépassement d’elle-même ; elle est affirmation de la puissance de la vie. Seulement, à la lumière de ce que nous avons dégagé jusqu’ici, sans doute pourrions nous émettre l’hypothèse selon laquelle, volonté de puissance négative et positive sont similaires dans leur essence, mais différentes en ce qui concerne leur objet. En d’autres termes, la volonté négative, cherchera à se dépasser elle-même, à affirmer la puissance de la vie, seulement, ce sera une vie extra-mondaine, extra-temporelle. Ainsi, si l’on s’en tient à cette hypothèse, la volonté de puissance négative sera ressentiment vis-à-vis de la vrai vie, qui se caractérise par sa mondanité et sa temporalité, aux yeux de Nietzsche. Par conséquent, la mauvaise volonté de puissance dépréciera la vie, tandis que la bonne, l’affirmera, en cherchant à la surmonter dans l’environnement qui est le sien, celle de la temporalité terrestre, celle du présent.
+
+L’ère nihiliste, caractérisée par la mort de Dieu, se retrouve alors sans arrière monde, sans valeurs, sans éternité. La volonté de puissance se retrouve donc dépouillée de toutes valeurs sur lesquelles elle pourrait s’appuyer, il ne lui reste donc alors plus qu’à vouloir le néant. Ainsi, avec Dieu, décline le “tu dois” (souvenons nous de l'allégorie du dragon et du lion dans le _Zarathoustra_), il reste à l’homme le “je veux” ; mais que vouloir, lorsque l’horizon des valeurs, des possibles, des sens s’étend à perte de vue. Dieu est mort, et avec lui toute perspective d’éternité ; seul demeure l’éternel cours du temps terrestre, temporalité atomiste où les instants se succèdent.
+
+“ Il nous est donné comme à aucun homme encore de regarder de tous côtés, et nulle part on aperçoit de fin. De ce fait nous avons un sentiment d’étendue infinie, - mais aussi de vide infini et en ce siècle l’ingéniosité de tous les hommes supérieurs consiste à dépasser ce sentiment de désert. A l’opposé de ce sentiment il y a l’ivresse. [...] Ce qui explique son ingéniosité pour découvrir des drogues enivrantes. Tous nous connaissons l’ivresse, comme musique, comme enthousiasme aveugle s’aveuglant, comme adoration d’hommes singuliers ou d'événements ; nous connaissons des ivresses plus modestes, le travail sans relâche, le sacrifice de soi à la science, à un parti politique ou financier ; n’importe quelle ronde pitoyable peut déjà enivrer. [...] Comme nous notons et comptabilisons nos petits plaisirs, comme si la somme de ces petits plaisirs pouvait faire contrepoids à ce vide, le combler : comme nous
 nous trompons par cette ruse arithmétique !”
-Que dénoncent ces extraits du Gai Savoir ? Qu’est-ce que Nietzsche nous y révèle ?
-C’est la cause de la mort de Dieu qui nous est exposée, la conséquence directe du nihilisme
-et de la volonté de néant. Il n’y a plus de “tu dois”, nous l’avons remarqué, ainsi le “je veux”
-va placer l’objet de la volonté en l’homme, il deviendra son propre objet de désir. En effet, il
-n’y a plus d’éternité, de promesse et de but, par conséquent, l’individu du nihilisme va
-chercher, dans l’instant, par le cumul des instants, atomes de temps, à “faire contrepoids à
-ce vide”. Ce n’est donc plus la recherche de la part de la volonté de puissance de se
-dépasser elle-même, de s’élever, dans une temporalité teintée d’éternité, mais une perte de
-soi-même que l’on observe ; l’homme cherche alors à se dissoudre dans l’ivresse, à
-s’oublier dans une lutte.
+
+Que dénoncent ces extraits du _Gai Savoir_ ? Qu’est-ce que Nietzsche nous y révèle ? C’est la cause de la mort de Dieu qui nous est exposée, la conséquence directe du nihilisme et de la volonté de néant. Il n’y a plus de “tu dois”, nous l’avons remarqué, ainsi le “je veux” va placer l’objet de la volonté en l’homme, il deviendra son propre objet de désir. En effet, il n’y a plus d’éternité, de promesse et de but, par conséquent, l’individu du nihilisme va chercher, dans l’instant, par le cumul des instants, atomes de temps, à “faire contrepoids à ce vide”. Ce n’est donc plus la recherche de la part de la volonté de puissance de se dépasser elle-même, de s’élever, dans une temporalité teintée d’éternité, mais une perte de soi-même que l’on observe ; l’homme cherche alors à se dissoudre dans l’ivresse, à s’oublier dans une lutte.
+
 Le refus nietzschéen de certaines conceptions de la temporalité nous apparaît
-maintenant, plus clairement. Récapitulons donc les différents points évoqués et tentons de
-les faire correspondre à la question initiale que nous nous étions fixé pour notre étude, à
-savoir, la corrélation entre l’existence et un certain type de temporalité, ou plus exactement
-les rapports qu’elle peut entretenir avec l’instant et l’éternel.
-Ainsi, nous avons observé, qu’à travers la lecture généalogique de Nietzsche, l’éternité,
-si elle était proposée aux individus (platonisme, christianisme), concernait alors une existence
-idéale, différente de l’empirique. L’éternité était alors réservée à une vie autre, dans un monde
-différent, un “arrière-monde” pour reprendre l'expression nietzschéenne. À l’inverse, sa
-lecture du nihilisme, nous décrit une existence mondaine, terrestre, dénuée de toute valeur
-capable de contenir quelque allure d’éternité ; l’histoire n’est qu’une succession d’instants et
-de modes, le présent aussi. Par conséquent, l’existence se résume en une succession
-d’instants, et l’éternité n’est rien d’autre que le triste constat que nous portons sur le monde :
-éternel enchaînement d’instants, au caractère, par définition éphémère ; l’instant n’étant rien
-d’autre qu’un néant.
+maintenant, plus clairement. Récapitulons donc les différents points évoqués et tentons de les faire correspondre à la question initiale que nous nous étions fixé pour notre étude, à savoir, la corrélation entre l’existence et un certain type de temporalité, ou plus exactement les rapports qu’elle peut entretenir avec l’instant et l’éternel.
+
+Ainsi, nous avons observé, qu’à travers la lecture généalogique de Nietzsche, l’éternité, si elle était proposée aux individus (platonisme, christianisme), concernait alors une existence idéale, différente de l’empirique. L’éternité était alors réservée à une vie autre, dans un monde différent, un “arrière-monde” pour reprendre l'expression nietzschéenne. À l’inverse, sa lecture du nihilisme, nous décrit une existence mondaine, terrestre, dénuée de toute valeur capable de contenir quelque allure d’éternité ; l’histoire n’est qu’une succession d’instants et de modes, le présent aussi. Par conséquent, l’existence se résume en une succession d’instants, et l’éternité n’est rien d’autre que le triste constat que nous portons sur le monde :
+éternel enchaînement d’instants, au caractère, par définition éphémère ; l’instant n’étant rien d’autre qu’un néant.
+
+
 Observons maintenant, l’approche Kierkegaardienne de la temporalité, et plus
-précisément les types de temporalités existentielles qu’il fait correspondre aux différents
-stades de l’existence. En effet, rappelons nous que l’auteur des Stades sur le chemin de la
-vie, nous a exposé une certaine vision de l’existence, traversant différents stades ;
-l'esthétique dans un premier temps, puis l’éthique, et enfin, celui du chevalier de la foi, le
-religieux. Ainsi, nous verrons ici, au sein de quel type de temporalité évoluent les deux
-premiers stades.
-“ Mais je reste étendue, inactif ; la seule chose que je vois, c’est le vide ; la
-seule dont je vis, c’est le vide ; le seul milieu où je me meus, c’est le vide.”
-TP - Instant et éternité chez Kierkegaard et Nietzsche
-7
-“ Quelle chose pourrait me distraire ? La fidélité, si je la voyait résister à toute
-épreuve, un enthousiasme qui soutiendrait tout, une foi qui transporterait les
-montagnes ; une pensée enfin, si je la percevais, qui rejoindrait le fini et l’infini.”
-Ou bien... ou bien, Kierkegaard, “Diapsalmata”
+précisément les types de temporalités existentielles qu’il fait correspondre aux différents stades de l’existence. En effet, rappelons nous que l’auteur des Stades sur le chemin de la vie, nous a exposé une certaine vision de l’existence, traversant différents stades ; l'esthétique dans un premier temps, puis l’éthique, et enfin, celui du chevalier de la foi, le religieux. Ainsi, nous verrons ici, au sein de quel type de temporalité évoluent les deux premiers stades.
+
+>Mais je reste étendue, inactif ; la seule chose que je vois, c’est le vide ; la seule dont je vis, c’est le vide ; le seul milieu où je me meus, c’est le vide.
+
+>Quelle chose pourrait me distraire ? La fidélité, si je la voyait résister à toute épreuve, un enthousiasme qui soutiendrait tout, une foi qui transporterait les montagnes ; une pensée enfin, si je la percevais, qui rejoindrait le fini et l’infini.
+
+Kierkegaard, _Ou bien... ou bien_, “Diapsalmata”
+
+
+----------------------------
+
+#TODO >>>>
+
 À la lecture de ces extraits, dans lesquels Kierkegaard fait parler un individu enfoncé
 dans le stade esthétique ; ne reconnaissons nous pas le même sentiment que celui éprouvé
 par le nihiliste nietzschéen ? En effet, ce vide que dénonce Kierkegaard, cette impression de
