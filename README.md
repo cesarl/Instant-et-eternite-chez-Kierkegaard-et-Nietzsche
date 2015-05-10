@@ -114,153 +114,57 @@ précisément les types de temporalités existentielles qu’il fait correspondr
 Kierkegaard, _Ou bien... ou bien_, “Diapsalmata”
 
 
-----------------------------
+À la lecture de ces extraits, dans lesquels Kierkegaard fait parler un individu enfoncé dans le stade esthétique ; ne reconnaissons nous pas le même sentiment que celui éprouvé par le nihiliste nietzschéen ? En effet, ce vide que dénonce Kierkegaard, cette impression de désert, dans lequel on s’enfonce, incapable de trouver une base solide où s’appuyer ; n’estce pas là une disparition des valeurs, une absence de constance ? Regardons de plus près la seconde citation ; qu’est-ce qui pourrait distraire A (protagoniste de Ou
+bien...ou bien, auteur de ces lignes ; figure de l'esthète), qu’est-ce qui pourrait le sortir de ce vide ? C’est, lui
+fait dire Kierkegaard, une valeur, un sentiment, assez solide pour affronter la corruption. Mais de quel type de corruption est-il question ici ? C’est, ce que nous allons étudier plus en détail maintenant : une corruption temporelle. Mais ne nous méprenons pas sur ces termes ; en effet, ne perdons pas de vue que Kierkegaard est un penseur de l’existence, et que, par conséquent, il ne faut pas envisager la corruption temporelle comme une usure extérieure à
+l’individu. En d’autres termes, la temporalité est intrinsèquement liée à l’individu, elle sera donc, dirons nous “interne” à ce dernier, et, par conséquent, sera plus proche de l’idée de choix personnel que de nécessité extérieure.
 
-#TODO >>>>
+Nous le disions donc, l'esthétique, est le premier stade kierkegaardien. Nous nous attacherons donc ici, à relever certains de ses traits liés à la temporalité ; cependant, nous ne pourrons pas dégager un individu idéal-typique de ce stade, du simple fait que la diversité est
+caractéristique même de son essence. En effet, l'esthète se reconnaît par sa diversité, et il n’y a qu’à citer toutes les figures que Kierkegaard mobilise dans le but de l’illustrer, pour s’en
+rendre compte : Antigone, Ahasvérus, Don Giovanni, Faust, sans compter les personnages fictifs ou pseudonymiques, tels que A et Johannes. Remarquons aussi que nombre d'esthètes de cette liste appartiennent au domaine mythologique et imaginaire, et ce, non pas du fait des goûts littéraires personnels de Kierkegaard pour les mythes et l’opéra, mais
+parce que leur existence est à l’image d’une légende fantasmagorique. En effet, l’existence esthétique se déroule dans “un monde de possibilité embrasé de fantaisie et arrangé dialectiquement”, pour reprendre l’expression de Kierkegaard dans le _Post-criptum aux Miettes Philosophiques_.
 
-À la lecture de ces extraits, dans lesquels Kierkegaard fait parler un individu enfoncé
-dans le stade esthétique ; ne reconnaissons nous pas le même sentiment que celui éprouvé
-par le nihiliste nietzschéen ? En effet, ce vide que dénonce Kierkegaard, cette impression de
-désert, dans lequel on s’enfonce, incapable de trouver une base solide où s’appuyer ; n’estce
-pas là une disparition des valeurs, une absence de constance ? Regardons de plus près
-la seconde citation ; qu’est-ce qui pourrait distraire A (protagoniste de Ou bien...ou bien,
-auteur de ces lignes ; figure de l'esthète), qu’est-ce qui pourrait le sortir de ce vide ? C’est, lui
-fait dire Kierkegaard, une valeur, un sentiment, assez solide pour affronter la corruption. Mais
-de quel type de corruption est-il question ici ? C’est, ce que nous allons étudier plus en détail
-maintenant : une corruption temporelle. Mais ne nous méprenons pas sur ces termes ; en
-effet, ne perdons pas de vue que Kierkegaard est un penseur de l’existence, et que, par
-conséquent, il ne faut pas envisager la corruption temporelle comme une usure extérieure à
-l’individu. En d’autres termes, la temporalité est intrinsèquement liée à l’individu, elle sera
-donc, dirons nous “interne” à ce dernier, et, par conséquent, sera plus proche de l’idée de
-choix personnel que de nécessité extérieure.
-Nous le disions donc, l'esthétique, est le premier stade kierkegaardien. Nous nous
-attacherons donc ici, à relever certains de ses traits liés à la temporalité ; cependant, nous ne
-pourrons pas dégager un individu idéal-typique de ce stade, du simple fait que la diversité est
-caractéristique même de son essence. En effet, l'esthète se reconnaît par sa diversité, et il
-n’y a qu’à citer toutes les figures que Kierkegaard mobilise dans le but de l’illustrer, pour s’en
-rendre compte : Antigone, Ahasvérus, Don Giovanni, Faust, sans compter les personnages
-fictifs ou pseudonymiques, tels que A et Johannes. Remarquons aussi que nombre
-d'esthètes de cette liste appartiennent au domaine mythologique et imaginaire, et ce, non
-pas du fait des goûts littéraires personnels de Kierkegaard pour les mythes et l’opéra, mais
-parce que leur existence est à l’image d’une légende fantasmagorique. En effet, l’existence
-esthétique se déroule dans “un monde de possibilité embrasé de fantaisie et arrangé
-dialectiquement”, pour reprendre l’expression de Kierkegaard dans le Post-criptum aux
-Miettes Philosophiques.
-Ce “monde embrasé de possibilité”, nous l’avons remarqué plus haut, est un monde
-comparable à celui nihiliste décrit par Nietzsche. Mais d’où viendra cette possibilité ? Et
-quelles seront les conditions nécessaires à l’existence de cette possibilité ? Ce sera la
-temporalité esthétique.
-La temporalité de l'esthète, c’est celle du lis et de l’oiseau, pour reprendre l’exemple de
-Kierkegaard dans ses Discours Édifiants ; c’est l’instant. Ainsi, l’esthète, vit dans l’instant,
-évolue au cours du présent, lequel est perçu comme fluctuation permanente et écoulement
-TP - Instant et éternité chez Kierkegaard et Nietzsche
-8
-infini. Chaque instant devient alors un nouveau terrain de possibilité ; seulement, celui-ci est
-condamné à disparaître aussitôt ; ainsi à peine investi par l’esthète il sombrera dans l’oubli du
-passé. C’est donc au sein d’une temporalité atomiste qu’évolue l'esthète ; temporalité sur
-laquelle tout glisse et rien ne s’accroche. Don Giovanni sera l’un des représentants de ce
-stade : sans cesse insatisfait, à peine aura-t-il possédé une femme qu’il la trompera avec une
-autre. Insatiable, du fait que chacune de ses acquisitions disparaisse à chaque instant, il ne
-cessera de courir après les femmes. Souvenons-nous du cahier dans lequel il comptabilise
-ses conquêtes ; ce n’est pas un concours auquel il se livre, mais c’est sa vie qu’il tente d’y
-retenir, son existence même. Ainsi, les 1003 femmes d’Espagne ne sont que des atomes
-d'existence ; elles ne sont que 1003 instants perdus à jamais dans le gouffre du passé, ne
-restant d’elles que des noms.
-L’esthète s’investit alors dans chaque instant, mais se perd dans le suivant ; idée que
-Kierkegaard illustre parfaitement dans Ou bien...ou bien (“la formation de la personnalité”)
-quand il fait dire à B (figure éthique), que les les esthètes sont reconnaissables de par leur
-manque de mémoire. En effet, il n’en ont pas, car dès l’instant suivant, ils ont perdu ce qu’ils
-étaient dans le précédant.
-Seulement, Kierkegaard le montre, cette temporalité dans laquelle s’inscrit l'esthète le
-conduit au désespoir. Certes, Don Giovanni ne faiblira pas et continuera même à danser
-autour du gouffre de l’enfer. Mais le désespoir atteint souvent celui qui existe de manière
-esthétique ; à l’exemple du poète mélancolique. Eclaircissons donc les raisons de ce
-désespoir, et pour cela, retournons à l’étude des Discours Édifiants et à la figure du lis et
-l’oiseau.
-Ainsi, dans le discours intitulé “Que sont les soucis des païens”, Kierkegaard nous
-décrit la vie païenne, autrement dit la vie sans considération de Dieu, comme une vie
-d’angoisse et de crainte. Cette vie païenne peut être comparée à celle esthétique. En effet,
-se reflète la figure du poète dans cette description de l’existence “sans Dieu dans le monde” ;
-poète mélancolique qui face à l’angoisse du devenir se jette dans l’imaginaire. Or, nous dit
-Kierkegaard, “ce ne sont pas les fruits qui se dérobent à lui, c’est lui qui s’empêche d’être ce
-qu’il est”. Ainsi, à chaque instant l’homme de l’immédiat n’est plus rien, il n’est qu’un vide, à
-combler de nouveau, et c’est de là que naît le désespoir de l’esthète. Son fardeau nous dit
-Kierkegaard, c’est le désespoir de ne pas être soi.
-Ainsi, dans le même discours, Kierkegaard met en évidence l’angoisse la plus profonde
-de l’esthète ; angoisse étroitement liée à une conception particulière de la temporalité. En
-effet, dans le stade esthétique, l’individu sombre dans le désespoir au moment où il prend
-conscience que son existence se perd sans cesse, au fil des instants. Alors, il “ne vit jamais,
-toujours empêché de vivre par le lendemain” ; “comme un esprit maudit qui n’a pas trouvé de
-repos dans la tombe, il vit, semblable à un revenant ; c’est-à-dire qu’il ne vit pas”.
-Mais pourquoi l’individu ne pourrait-il pas vivre dans l’instant ? Parce qu’il n’est pas
-comme le lis et l’oiseau, nous fait alors remarquer Kierkegaard. En effet, l’oiseau est
-innocence, il peut être dans l’immédiat ; l’homme quant à lui est dans le devenir. Ainsi
-“l’oiseau est ce qu’il est”, contrairement à l’homme qui doit le devenir. Nous comprenons
-alors la différence de temporalité qui rend la vie esthétique intenable ; l’instant ne peut suffire,
-car l’homme est dans la durée et par conséquent, connaît le lendemain. Et c’est en ces
-TP - Instant et éternité chez Kierkegaard et Nietzsche
-9
-termes que Kierkegaard nous révèle le fondement sur lequel repose la différence entre
-l’homme et l’oiseau : “L’homme étant conscience, il est donc le lieu où le temps et l’éternité
-se trouvent en contact perpétuel, où l’éternel fait irruption dans le temporel”.
-Par conséquent, nous voyons ici clairement où réside le désespoir de l’esthète ; il réside
-dans l’impossibilité pour sa part d’être soi, autrement dit, d’être dans le temps, d’être
-synthèse d’éternité et d’instantanéité. Remémorons nous le célèbre passage au début de La
-Maladie à la mort : “Le moi est un rapport qui se rapporte à lui-même, ou cette propriété qu’a
-le rapport de se rapporter à lui-même ; le moi n’est pas le rapport, mais le fait que le rapport
-se rapporte à lui-même. L’homme est une synthèse d’infini et de fini, de temporel et
-d’éternel, de liberté et de nécessité, bref, une synthèse”. Ainsi, qu’arrivera-t-il à l'esthète qui
-n’arrivera plus à se rapporter à lui-même, car ayant oublié toute dimension d’éternité, il aura
+Ce “monde embrasé de possibilité”, nous l’avons remarqué plus haut, est un monde comparable à celui nihiliste décrit par Nietzsche. Mais d’où viendra cette possibilité ? Et quelles seront les conditions nécessaires à l’existence de cette possibilité ? Ce sera la temporalité esthétique.
+
+La temporalité de l'esthète, c’est celle du lis et de l’oiseau, pour reprendre l’exemple de Kierkegaard dans ses Discours Édifiants ; c’est l’instant. Ainsi, l’esthète, vit dans l’instant, évolue au cours du présent, lequel est perçu comme fluctuation permanente et écoulement infini. Chaque instant devient alors un nouveau terrain de possibilité ; seulement, celui-ci est condamné à disparaître aussitôt ; ainsi à peine investi par l’esthète il sombrera dans l’oubli du passé. C’est donc au sein d’une temporalité atomiste qu’évolue l'esthète ; temporalité sur laquelle tout glisse et rien ne s’accroche. Don Giovanni sera l’un des représentants de ce stade : sans cesse insatisfait, à peine aura-t-il possédé une femme qu’il la trompera avec une autre. Insatiable, du fait que chacune de ses acquisitions disparaisse à chaque instant, il ne cessera de courir après les femmes. Souvenons-nous du cahier dans lequel il comptabilise ses conquêtes ; ce n’est pas un concours auquel il se livre, mais c’est sa vie qu’il tente d’y retenir, son existence même. Ainsi, les 1003 femmes d’Espagne ne sont que des atomes d'existence ; elles ne sont que 1003 instants perdus à jamais dans le gouffre du passé, ne restant d’elles que des noms.
+
+L’esthète s’investit alors dans chaque instant, mais se perd dans le suivant ; idée que Kierkegaard illustre parfaitement dans _Ou bien...ou bien_ (“la formation de la personnalité”) quand il fait dire à B (figure éthique), que les les esthètes sont reconnaissables de par leur manque de mémoire. En effet, il n’en ont pas, car dès l’instant suivant, ils ont perdu ce qu’ils _étaient_ dans le précédant.
+
+Seulement, Kierkegaard le montre, cette temporalité dans laquelle s’inscrit l'esthète le conduit au désespoir. Certes, Don Giovanni ne faiblira pas et continuera même à danser autour du gouffre de l’enfer. Mais le désespoir atteint souvent celui qui existe de manière esthétique ; à l’exemple du poète mélancolique. Eclaircissons donc les raisons de ce désespoir, et pour cela, retournons à l’étude des _Discours Édifiants_ et à la figure du lis et l’oiseau.
+
+Ainsi, dans le discours intitulé “_Que sont les soucis des païens_”, Kierkegaard nous décrit la vie païenne, autrement dit la vie sans considération de Dieu, comme une vie d’angoisse et de crainte. Cette vie païenne peut être comparée à celle esthétique. En effet, se reflète la figure du poète dans cette description de l’existence “sans Dieu dans le monde” ;
+poète mélancolique qui face à l’angoisse du devenir se jette dans l’imaginaire. Or, nous dit Kierkegaard, “ce ne sont pas les fruits qui se dérobent à lui, c’est lui qui s’empêche d’être ce
+qu’il est”. Ainsi, à chaque instant l’homme de l’immédiat n’est plus rien, il n’est qu’un vide, à combler de nouveau, et c’est de là que naît le désespoir de l’esthète. Son fardeau nous dit Kierkegaard, c’est le désespoir de ne pas être soi.
+
+Ainsi, dans le même discours, Kierkegaard met en évidence l’angoisse la plus profonde de l’esthète ; angoisse étroitement liée à une conception particulière de la temporalité. En effet, dans le stade esthétique, l’individu sombre dans le désespoir au moment où il prend conscience que son existence se perd sans cesse, au fil des instants. Alors, il “ne vit jamais, toujours empêché de vivre par le lendemain” ; “comme un esprit maudit qui n’a pas trouvé de repos dans la tombe, il vit, semblable à un revenant ; c’est-à-dire qu’il ne vit pas”.
+
+Mais pourquoi l’individu ne pourrait-il pas vivre dans l’instant ? Parce qu’il n’est pas comme le lis et l’oiseau, nous fait alors remarquer Kierkegaard. En effet, l’oiseau est innocence, il peut être dans l’immédiat ; l’homme quant à lui est dans le devenir. Ainsi “l’oiseau est ce qu’il est”, contrairement à l’homme qui doit le devenir. Nous comprenons alors la différence de temporalité qui rend la vie esthétique intenable ; l’instant ne peut suffire,
+car l’homme est dans la durée et par conséquent, connaît le lendemain. Et c’est en ces termes que Kierkegaard nous révèle le fondement sur lequel repose la différence entre l’homme et l’oiseau : “L’homme étant conscience, il est donc le lieu où le temps et l’éternité se trouvent en contact perpétuel, où l’éternel fait irruption dans le temporel”.
+
+
+Par conséquent, nous voyons ici clairement où réside le désespoir de l’esthète ; il réside dans l’impossibilité pour sa part d’être soi, autrement dit, d’être dans le temps, d’être synthèse d’éternité et d’instantanéité. Remémorons nous le célèbre passage au début de _La Maladie à la mort_ : “Le moi est un rapport qui se rapporte à lui-même, ou cette propriété qu’a
+le rapport de se rapporter à lui-même ; le moi n’est pas le rapport, mais le fait que le rapport se rapporte à lui-même. L’homme est une synthèse d’infini et de fini, de temporel et d’éternel, de liberté et de nécessité, bref, une synthèse”. Ainsi, qu’arrivera-t-il à l'esthète qui n’arrivera plus à se rapporter à lui-même, car ayant oublié toute dimension d’éternité, il aura
 laissé son moi dans chacun des instants qu’il aura traversé ?
-Quelle solution pouvons nous donc proposer à l’individu du stade esthétique ? Peutêtre
-pourrions nous songer au souvenir, qui permettrait à l’esthète de retrouver les instants
-perdus. Mais Kierkegaard rejette cette solution dans In Vino Veritas, et nous révèle en quoi
-cette dernière repose sur une même temporalité.
-Tout d’abord distinguons le souvenir et la mémoire. La mémoire n’est pas une solution,
-car elle n’est rien d’autre qu’une conversion du regard de la part de l'individu vers des
-instants révolus. Cela n’aura pour seule conséquence que la nostalgie, et le désespoir ; en
-effet, l’individu dans le présent contemplera le passé sans pouvoir pour autant le rejoindre. Il
-en résultera alors un abandon de l’instant dans lequel se trouve l’individu, une absence, une
-désertification du présent. Le souvenir, au contraire, semblerait constituer une meilleure
-solution ; en effet, ce dernier consiste non pas en un changement de direction du regard,
-mais en une réappropriation, une réactualisation du passé. En d’autres termes, se souvenir,
-c’est laisser place libre au souvenir au sein de l’instant. C’est donc sur le mode de
-l’imaginaire, que l’instant sera vécu. Nous restons donc, au sein d’une même temporalité ;
-l’esthétique reste, et l’instant, bien qu’il soit investi de manière différente garde son caractère
-éphémère. Ainsi, le ressouvenir n’unira par pour autant l’individu, il ne lui permettra pas de
-dépasser les bornes de l’instant en réactualisant, par le biais de l’imagination, les instants
+
+
+Quelle solution pouvons nous donc proposer à l’individu du stade esthétique ? Peut-être pourrions nous songer au souvenir, qui permettrait à l’esthète de retrouver les instants perdus. Mais Kierkegaard rejette cette solution dans _In Vino Veritas_, et nous révèle en quoi cette dernière repose sur une même temporalité.
+
+Tout d’abord distinguons le souvenir et la mémoire. La mémoire n’est pas une solution, car elle n’est rien d’autre qu’une conversion du regard de la part de l'individu vers des instants révolus. Cela n’aura pour seule conséquence que la nostalgie, et le désespoir ; en effet, l’individu dans le présent contemplera le passé sans pouvoir pour autant le rejoindre. Il en résultera alors un abandon de l’instant dans lequel se trouve l’individu, une absence, une désertification du présent. Le souvenir, au contraire, semblerait constituer une meilleure solution ; en effet, ce dernier consiste non pas en un changement de direction du regard, mais en une réappropriation, une réactualisation du passé. En d’autres termes, se souvenir, c’est laisser place libre au souvenir au sein de l’instant. C’est donc sur le mode de l’imaginaire, que l’instant sera vécu. Nous restons donc, au sein d’une même temporalité ; l’esthétique reste, et l’instant, bien qu’il soit investi de manière différente garde son caractère éphémère. Ainsi, le ressouvenir n’unira par pour autant l’individu, il ne lui permettra pas de dépasser les bornes de l’instant en réactualisant, par le biais de l’imagination, les instants
 écoulés.
-Nous ne prétendrons pas avoir fait le tour de la question de la temporalité esthétique et
-du lien qu’elle entretien avec l’existence ; et ce, parce que, comme nous l’avions remarqué
-plus haut, l’esthète est “protéiforme” et a pour caractéristique première de ne pas rentrer
-dans une catégorie idéal-typique. Cependant, nous avons dégagé certains points
-caractéristiques de la temporalité esthétique. Ainsi, l’existence esthétique ne connaîtra que
-l’instant ; instant qui n’est rien d’autre qu’une infime fraction de temporalité, sans passé ni
-avenir. Mais aussi sans éternité ; en effet, nous voyons bien que le stade esthétique
-kierkegaardien interdit toute expérience de l'éternité. Ainsi, avec l'esthétique, se trouve
-bannie toute possibilité d'expérience dans la durée.
-TP - Instant et éternité chez Kierkegaard et Nietzsche
-10
-Ce sera cette idée de durée qui nous permettra d’aborder le stade éthique. En effet, elle
-constitue une des différences majeures entre l’individu moral et l’esthète. Nous partirons
-donc de cette notion de durée pour étudier le second stade kierkegaardien.
-Ainsi, le stade éthique apportera à l’individu la durée, la constance, qui manquait à
-l’esthète. En effet, dans L’équilibre de l’Esthétique et de l’Ethique dans la formation de la
-personnalité, Kierkegaard, par l’intermédiaire de B, nous présente une éthique dont les
-fondements seraient constitués par l’idée de personnalité et de choix. En d’autres termes, ce
+
+
+Nous ne prétendrons pas avoir fait le tour de la question de la temporalité esthétique et du lien qu’elle entretien avec l’existence ; et ce, parce que, comme nous l’avions remarqué plus haut, l’esthète est “protéiforme” et a pour caractéristique première de ne pas rentrer dans une catégorie idéal-typique. Cependant, nous avons dégagé certains points caractéristiques de la temporalité esthétique. Ainsi, l’existence esthétique ne connaîtra que
+l’instant ; instant qui n’est rien d’autre qu’une infime fraction de temporalité, sans passé ni avenir. Mais aussi sans éternité ; en effet, nous voyons bien que le stade esthétique kierkegaardien interdit toute expérience de l'éternité. Ainsi, avec l'esthétique, se trouve bannie toute possibilité d'expérience dans la _durée_.
+
+Ce sera cette idée de durée qui nous permettra d’aborder le stade éthique. En effet, elle constitue une des différences majeures entre l’individu moral et l’esthète. Nous partirons donc de cette notion de durée pour étudier le second stade kierkegaardien.
+
+
+Ainsi, le stade éthique apportera à l’individu la durée, la constance, qui manquait à l’esthète. En effet, dans _L’équilibre de l’Esthétique et de l’Ethique dans la formation de la personnalité_, Kierkegaard, par l’intermédiaire de B, nous présente une éthique dont les fondements seraient constitués par l’idée de personnalité et de choix. En d’autres termes, ce
 seront ces deux critères qui permettront de distinguer l’esthétique et l’éthique.
-Souvenons nous de ce que nous avions remarqué plus haut dans La Maladie à la mort ;
-le moi, essence même de l’individu était défini comme un rapport se rapportant à lui même.
-Nous avions alors montré que le moi était intrinsèquement lié à la temporalité dans laquelle
-l’individu évoluait. Ainsi, l'esthète se perdait constamment, son moi n’étant que dans l’instant,
-il ne pouvait cerner sa personnalité. Nous pourrions alors, avec certaines réserves, avancer
-l’idée selon laquelle, la personnalité serait l’inscription du moi dans la durée. Par conséquent,
-sur la base d’une telle interprétation, la personnalité ne serait pas une caractéristique
-phénoménale, une qualité qui serait déduite par l'extérieur au regard de nos agissements,
-mais plutôt, un certain moi constant, durable, qui appartiendrait au domaine de l'intériorité.
-La personnalité sera donc un certain substrat constitutif de l’individu, à la racine de ses
-actions. L’homme éthique alors, nous le remarquons immédiatement, entrera dans la durée,
-en étant ce qu’il est durablement.
+
+Souvenons nous de ce que nous avions remarqué plus haut dans _La Maladie à la mort_ ; le moi, essence même de l’individu était défini comme un rapport se rapportant à lui même. Nous avions alors montré que le moi était intrinsèquement lié à la temporalité dans laquelle l’individu évoluait. Ainsi, l'esthète se perdait constamment, son moi n’étant que dans l’instant, il ne pouvait cerner sa personnalité. Nous pourrions alors, avec certaines réserves, avancer l’idée selon laquelle, la personnalité serait l’inscription du moi dans la durée. Par conséquent, sur la base d’une telle interprétation, la personnalité ne serait pas une caractéristique phénoménale, une qualité qui serait déduite par l'extérieur au regard de nos agissements, mais plutôt, un certain moi constant, durable, qui appartiendrait au domaine de l'intériorité.
+La personnalité sera donc un certain substrat constitutif de l’individu, à la racine de ses actions. L’homme éthique alors, nous le remarquons immédiatement, entrera dans la durée, en étant ce qu’il est durablement.
+
 Mais comment comprendre la naissance de cette personnalité ? En effet, il nous faut
 nous demander quel va être l’élément déclencheur ? Ce sera, nous le verrons, le choix qui
 permettra à la personnalité d’émerger.
