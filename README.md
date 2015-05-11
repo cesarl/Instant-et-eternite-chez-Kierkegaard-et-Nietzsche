@@ -162,100 +162,38 @@ Ce sera cette idée de durée qui nous permettra d’aborder le stade éthique. 
 Ainsi, le stade éthique apportera à l’individu la durée, la constance, qui manquait à l’esthète. En effet, dans _L’équilibre de l’Esthétique et de l’Ethique dans la formation de la personnalité_, Kierkegaard, par l’intermédiaire de B, nous présente une éthique dont les fondements seraient constitués par l’idée de personnalité et de choix. En d’autres termes, ce
 seront ces deux critères qui permettront de distinguer l’esthétique et l’éthique.
 
-Souvenons nous de ce que nous avions remarqué plus haut dans _La Maladie à la mort_ ; le moi, essence même de l’individu était défini comme un rapport se rapportant à lui même. Nous avions alors montré que le moi était intrinsèquement lié à la temporalité dans laquelle l’individu évoluait. Ainsi, l'esthète se perdait constamment, son moi n’étant que dans l’instant, il ne pouvait cerner sa personnalité. Nous pourrions alors, avec certaines réserves, avancer l’idée selon laquelle, la personnalité serait l’inscription du moi dans la durée. Par conséquent, sur la base d’une telle interprétation, la personnalité ne serait pas une caractéristique phénoménale, une qualité qui serait déduite par l'extérieur au regard de nos agissements, mais plutôt, un certain moi constant, durable, qui appartiendrait au domaine de l'intériorité.
-La personnalité sera donc un certain substrat constitutif de l’individu, à la racine de ses actions. L’homme éthique alors, nous le remarquons immédiatement, entrera dans la durée, en étant ce qu’il est durablement.
+Souvenons nous de ce que nous avions remarqué plus haut dans _La Maladie à la mort_ ; le moi, essence même de l’individu était défini comme un rapport se rapportant à lui même. Nous avions alors montré que le moi était intrinsèquement lié à la temporalité dans laquelle l’individu évoluait. Ainsi, l'esthète se perdait constamment, son moi n’étant que dans l’instant, il ne pouvait cerner sa personnalité. Nous pourrions alors, avec certaines réserves, avancer l’idée selon laquelle, la personnalité serait l’inscription du moi dans la durée. Par conséquent, sur la base d’une telle interprétation, la personnalité ne serait pas une caractéristique phénoménale, une qualité qui serait déduite par l'extérieur au regard de nos agissements, mais plutôt, un certain moi constant, durable, qui appartiendrait au domaine de l'intériorité. La personnalité sera donc un certain substrat constitutif de l’individu, à la racine de ses actions. L’homme éthique alors, nous le remarquons immédiatement, entrera dans la durée, en étant ce qu’il est durablement.
 
-Mais comment comprendre la naissance de cette personnalité ? En effet, il nous faut
-nous demander quel va être l’élément déclencheur ? Ce sera, nous le verrons, le choix qui
-permettra à la personnalité d’émerger.
-Ainsi, nous avons vu qu’avec le stade éthique apparaît la personnalité, que nous
-pouvons considérer comme une sorte de moi durable. L’individu éthique, en se rapportant à
-lui-même observera alors en son moi une constance. Le passage de l'esthétique à l’éthique
-consistera donc en un choix de son moi. En d’autres termes, la personnalité verra le jour au
-moment du choix. Kierkegaard exprime très bien cette idée dans “L’équilibre de Esthétique et
-de l’Ethique dans la formation da personnalité”, dans Ou bien... ou bien, lorsqu’il présente la
-phrase “je dis simplement : ou bien - ou bien”, comme étant celle propre à l'esthète, qui ne
-choisit jamais rien, et qui, en premier lieu ne se choisit pas soi-même. Ainsi, nous le voyons
-bien, le choix appartient au domaine de l’éthique, et seulement à ce dernier ; il n’existe pas
-dans celui de l’esthétique, et ce, parce qu’en un certain sens, le choix requiert un moi
-durable. Pour le dire autrement, le choix est choix du moi, de la personnalité ; il est le rapport
-se rapportant à lui-même. Ainsi, l’exprime Kierkegaard, toujours dans le même chapitre de
-Ou bien ... ou bien, “Tu vois encore ici combien il importe d’opérer le choix, et qu’il s’agit
-moins de la délibération que du baptême de la volonté qui introduit celle-ci dans l’ordre
-éthique” ; par conséquent, ce choix est comparable à un baptême, car il marque l’entrée de
-l’individu dans une nouvelle dimension, une dimension temporelle au sein de laquelle le moi
-s’étend dans la durée, entre dans le devenir.
+Mais comment comprendre la naissance de cette personnalité ? En effet, il nous faut nous demander quel va être l’élément déclencheur ? Ce sera, nous le verrons, le choix qui permettra à la personnalité d’émerger.
+
+Ainsi, nous avons vu qu’avec le stade éthique apparaît la personnalité, que nous pouvons considérer comme une sorte de moi durable. L’individu éthique, en se rapportant à lui-même observera alors en son moi une constance. Le passage de l'esthétique à l’éthique consistera donc en un choix de son moi. En d’autres termes, la personnalité verra le jour au moment du choix. Kierkegaard exprime très bien cette idée dans “L’équilibre de Esthétique et
+de l’Ethique dans la formation da personnalité”, dans _Ou bien... ou bien_, lorsqu’il présente la phrase “je dis simplement : ou bien - ou bien”, comme étant celle propre à l'esthète, qui ne choisit jamais rien, et qui, en premier lieu ne se choisit pas soi-même. Ainsi, nous le voyons bien, le choix appartient au domaine de l’éthique, et seulement à ce dernier ; il n’existe pas dans celui de l’esthétique, et ce, parce qu’en un certain sens, le choix requiert un moi durable. Pour le dire autrement, le choix est choix du moi, de la personnalité ; il est le rapport se rapportant à lui-même. Ainsi, l’exprime Kierkegaard, toujours dans le même chapitre de _Ou bien ... ou bien_, “Tu vois encore ici combien il importe d’opérer le choix, et qu’il s’agit moins de la délibération que du baptême de la volonté qui introduit celle-ci dans l’ordre
+éthique” ; par conséquent, ce choix est comparable à un baptême, car il marque l’entrée de l’individu dans une nouvelle dimension, une dimension temporelle au sein de laquelle le moi s’étend dans la durée, entre dans le devenir.
+
 Le passage du stade esthétique à l’éthique se fera donc par le choix du moi, la
-réappropriation du moi. En effet, souvenons nous du désespoir de l’esthète, et de la peine
-TP - Instant et éternité chez Kierkegaard et Nietzsche
-11
-qu’il éprouvait à ne pas se trouver. Ce sera donc le désespoir qui poussera au choix, et c’est
-ce que Kierkegaard exprime en ces mots dans le Post-Scriptum aux Miettes Philosophiques,
-“L’éthicien a désespéré ; il s’est, dans le désespoir, choisi lui-même ; il deviens par ce choix
-et dans ce choix...”. Cette phrase résume tout ce que nous avons dit ici, en effet, nous y
-retrouvons l’idée de désespoir mais aussi de choix de soi-même, et de devenir.
-Ce sera donc le désespoir qui poussera l’esthète à faire le choix et à rentrer dans
-l’éthique. Ce sera le choix de “moi-même en ma valeur éternelle” qui me sortira de
-l’esthétique, unifiant mon moi et le situant au sein d’une temporalité linéaire. L’objet du choix
-étant le moi, ce dernier ne portera pas directement sur le bien ; en effet, ce sera en se
-choisissant soi-même que l’on choisira le bien, en d’autre termes, le bien sera l’acte de se
-choisir. Cet acte dépasse alors l’acte esthétique instantané et devient acte durable, acte
-éternel ; de la même manière qu’il unifie l’individu dans le temps, il est unifié lui-même, il est
-un, car il transcende toute dimension atomiste du temps. Par conséquent, l’acte étant un, et
-étant le bien, le bien est un et éternel.
-Seulement, nous pouvons voir ici, une éternité et une unité purement idéales, reposant
-uniquement sur la subjectivité de l’individu. C’est pourquoi Kierkegaard expliquera que cette
-éthique doit se concrétiser dans la vie empirique. Ainsi, l’éthique amènera l’individu à devenir
-éternel dans ses actes, à devenir synthèse. L’éthicien, par l’acte éthique, réunira donc le
-passé et l’avenir dans le présent. En effet, ce sera une concentration de l’éternel dans
-l’instant à laquelle il se livrera ; le bien, un et éternel s’actualisera dans la durée, dans l’instant
-du monde empirique. Le mariage, exposé dans Ou bien ... ou bien, se révèle être l’acte
-éthique par excellence, réunissant l’instant et l'éternel. En effet, “avec lui, s'effectue l’insertion
-du choix dans la réalité concrète” 1, la réunification du passé et du futur dans le présent
-empirique. Ainsi, l’homme marié conservera l’instantanéité de l’amour esthétique mais de
-manière éternelle ; il réunira l'éternité du choix idéal et la finitude concrète du mariage.
-Kierkegaard résumera cette idée en ces termes : “La mariage est la plénitude du temps”.
-Ainsi avec le stade éthique, Kierkegaard parvient à réunir l’instant et l'éternité, à les faire
-se rejoindre au sein du même individu. Ce dernier rentre alors dans l’histoire, et ce, en tant
-qu’individualité. En effet, le choix primordial qu'opère l’éthicien est un choix subjectif, ou plus
-exactement, il choisit sa subjectivité, son moi. Ainsi, il reste entièrement individu au sens ou
-son mode d’existence, l’éthique, repose entièrement sur une subjectivité et non sur une
-objectivité. En d’autres termes, ce ne sera pas sur la base d’une injonction morale objective
-que l'esthète choisira l’éthique, mais ce sera sur la base d’un constat à propos de son moi
-qu’il se choisira soi-même se réunifiant et rentrant alors dans le monde éthique. L’éthicien
-alors, en réalisant le général à travers ses actes, n’agira pas sous la contrainte sociale ou
-morale, mais il agira librement, au sens où le devoir qu’il remplira ne sera pas posé par une
-autorité ou influence extérieure, mais bien par lui-même et sa volonté éthique. Nous
-comprenons donc que ce stade que nous propose Kierkegaard ne conduit pas au reniement
-de soi et de sa liberté et que, bien au contraire, une telle conception de l’éthique est celle
-d’un esthète, ne voyant pas que l’agir éthique est libre, car reposant entièrement sur la
-subjectivité. Subjectivité choisie par l’individu éthique, et par conséquent, comme nous
-l’avons expliqué plus haut, une dans le temps.
-TP - Instant et éternité chez Kierkegaard et Nietzsche
-12
-1 André CLAIR, Pseudonumie et Paradoxe, “La pensée dialectique de Kierkegaard”. Vrin
-Nous comprenons alors que l’individu éthique étant unifié dans le temps, faisant se
-rejoindre le passé et le futur dans le présent, doit, dans la vie pratique, pouvoir observer dans
-les faits cette continuité. En effet, si idéalement, l’éthicien en ayant choisit parvient à éterniser
-son existence, alors, il devrait concrètement dans le monde empirique observer une certaine
-continuité, une régularité. Et c’est ce que nous avions mentionné lorsque, plus haut, nous
-nous étions intéressé à la vision Kierkegaardienne du mariage, entendu comme “plénitude du
-temps”, c’est-à-dire, comme réunion concrète du passé et du futur dans l’instant. Ainsi,
-l’homme marié reconnaît à chaque instant dans sa femme le premier amour qu’il a éprouvé
-pour elle, et cela, allant en grandissant avec le temps, puisque l’éthicien s’inscrit dans une
-temporalité continue au sein de laquelle l’accumulation est possible. Par conséquent, c’est
-une certaine répétition que devra vivre empiriquement l’homme éthique. Cette notion va
-justement être centrale dans l’oeuvre de Kierkegaard et ira jusqu’à constituer le titre d’un de
-ses ouvrages.
+réappropriation du moi. En effet, souvenons nous du désespoir de l’esthète, et de la peine qu’il éprouvait à ne pas se trouver. Ce sera donc le désespoir qui poussera au choix, et c’est ce que Kierkegaard exprime en ces mots dans le _Post-Scriptum aux Miettes Philosophiques_, “L’éthicien a désespéré ; il s’est, dans le désespoir, choisi lui-même ; il deviens par ce choix et dans ce choix...”. Cette phrase résume tout ce que nous avons dit ici, en effet, nous y retrouvons l’idée de désespoir mais aussi de choix de soi-même, et de devenir.
+
+Ce sera donc le désespoir qui poussera l’esthète à faire le choix et à rentrer dans l’éthique. Ce sera le choix de “moi-même en ma valeur éternelle” qui me sortira de l’esthétique, unifiant mon moi et le situant au sein d’une temporalité linéaire. L’objet du choix étant le moi, ce dernier ne portera pas directement sur le bien ; en effet, ce sera en se choisissant soi-même que l’on choisira le bien, en d’autre termes, le bien sera l’acte de se choisir. Cet acte dépasse alors l’acte esthétique instantané et devient acte durable, acte éternel ; de la même manière qu’il unifie l’individu dans le temps, il est unifié lui-même, il est un, car il transcende toute dimension atomiste du temps. Par conséquent, l’acte étant un, et étant le bien, le bien est un et éternel.
+
+Seulement, nous pouvons voir ici, une éternité et une unité purement idéales, reposant uniquement sur la subjectivité de l’individu. C’est pourquoi Kierkegaard expliquera que cette éthique doit se concrétiser dans la vie empirique. Ainsi, l’éthique amènera l’individu à devenir éternel dans ses actes, à devenir synthèse. L’éthicien, par l’acte éthique, réunira donc le passé et l’avenir dans le présent. En effet, ce sera une concentration de l’éternel dans l’instant à laquelle il se livrera ; le bien, un et éternel s’actualisera dans la durée, dans l’instant du monde empirique. Le mariage, exposé dans _Ou bien ... ou bien_, se révèle être l’acte éthique par excellence, réunissant l’instant et l'éternel. En effet, “avec lui, s'effectue l’insertion du choix dans la réalité concrète” (1), la réunification du passé et du futur dans le présent empirique. Ainsi, l’homme marié conservera l’instantanéité de l’amour esthétique mais de manière éternelle ; il réunira l'éternité du choix idéal et la finitude concrète du mariage. Kierkegaard résumera cette idée en ces termes : “La mariage est la plénitude du temps”.
+
+Ainsi avec le stade éthique, Kierkegaard parvient à réunir l’instant et l'éternité, à les faire se rejoindre au sein du même individu. Ce dernier rentre alors dans l’histoire, et ce, en tant qu’individualité. En effet, le choix primordial qu'opère l’éthicien est un choix subjectif, ou plus exactement, il choisit sa subjectivité, son moi. Ainsi, il reste entièrement individu au sens ou son mode d’existence, l’éthique, repose entièrement sur une subjectivité et non sur une objectivité. En d’autres termes, ce ne sera pas sur la base d’une injonction morale objective que l'esthète choisira l’éthique, mais ce sera sur la base d’un constat à propos de son moi qu’il se choisira soi-même se réunifiant et rentrant alors dans le monde éthique.L’éthicien alors, en réalisant le général à travers ses actes, n’agira pas sous la contrainte sociale ou morale, mais il agira librement, au sens où le devoir qu’il remplira ne sera pas posé par une autorité ou influence extérieure, mais bien par lui-même et sa volonté éthique. Nous comprenons donc que ce stade que nous propose Kierkegaard ne conduit pas au reniement de soi et de sa liberté et que, bien au contraire, une telle conception de l’éthique est celle d’un esthète, ne voyant pas que l’agir éthique est libre, car reposant entièrement sur la subjectivité. Subjectivité choisie par l’individu éthique, et par conséquent, comme nous l’avons expliqué plus haut, une dans le temps.
+
+(1) : André CLAIR, _Pseudonumie et Paradoxe, “La pensée dialectique de Kierkegaard”_. Vrin
+
+Nous comprenons alors que l’individu éthique étant unifié dans le temps, faisant se rejoindre le passé et le futur dans le présent, doit, dans la vie pratique, pouvoir observer dans les faits cette continuité. En effet, si idéalement, l’éthicien en ayant choisit parvient à éterniser son existence, alors, il devrait concrètement dans le monde empirique observer une certaine continuité, une régularité. Et c’est ce que nous avions mentionné lorsque, plus haut, nous nous étions intéressé à la vision Kierkegaardienne du mariage, entendu comme “plénitude du temps”, c’est-à-dire, comme réunion concrète du passé et du futur dans l’instant. Ainsi, l’homme marié reconnaît à chaque instant dans sa femme le premier amour qu’il a éprouvé pour elle, et cela, allant en grandissant avec le temps, puisque l’éthicien s’inscrit dans une temporalité continue au sein de laquelle l’accumulation est possible. Par conséquent, c’est une certaine répétition que devra vivre empiriquement l’homme éthique. Cette notion va justement être centrale dans l’oeuvre de Kierkegaard et ira jusqu’à constituer le titre d’un de ses ouvrages.
+
+
 Une telle conclusion va nous permettre d’introduire l’idée de retour éternel nietzschéen.
-“ “Regarde cette poterne, gnome, lui dis-je encore. Elle a deux issus. Deux
-chemins se rejoignent ici ; nul ne les a suivis jusqu’au bout.
-Cette longue route qui s’allonge derrière nous dure une éternité. Et cette longue
-route qui s’étire devant nous, c’est une autre éternité.
-Ces chemins se contrecarrent; ils se heurtent du front, et c’est ici, sous cette
-poterne, qu’ils se rencontrent. Le nom de la poterne est inscrit au fronton :
-“Instant” ”
-Nietzsche, Ainsi parlait Zarathoustra, “de la vision et de l’énigme”
+
+>“ “Regarde cette poterne, gnome, lui dis-je encore. Elle a deux issus. Deux chemins se rejoignent ici ; nul ne les a suivis jusqu’au bout.
+Cette longue route qui s’allonge derrière nous dure une éternité. Et cette longue route qui s’étire devant nous, c’est une autre éternité.
+Ces chemins se contrecarrent; ils se heurtent du front, et c’est ici, sous cette poterne, qu’ils se rencontrent. Le nom de la poterne est inscrit au fronton : “Instant” ”
+
+Nietzsche, _Ainsi parlait Zarathoustra_, “de la vision et de l’énigme”
+
+# TODO >>>>
+
 La solution envisagée par Nietzsche au nihilisme et au ressentiment sera donc l’éternel
 retour. Cette idée sera présentée sous son aspect le plus théorique dans “de la vision et de
 l’énigme” au sein du Zarathoustra. Dans, ce passage, Zarathoustra et le nain se trouvent
